@@ -1,0 +1,12 @@
+{
+  "name": "Wilson_SampleDAU",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "request":"*",
+    "cheerio":"*" ,
+    "fs": "*",
+    "mkdirp": "*",
+    "async": "*"
+  }
+}
